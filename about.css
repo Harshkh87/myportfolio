@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&family=Josefin+Sans:wght@600&family=Nunito:wght@300&family=Splash&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Itim&family=Josefin+Sans:wght@600&family=Nunito:wght@300&family=Splash&family=Varta&display=swap');
+
+.main{
+    /* padding-top: 35px; */
+    margin-left: 40px;
+    display: flex;
+    flex-direction: column;
+}
+.about1 h1{
+    padding-top: 35px;
+    padding-bottom: 30px;
+    font-family: 'Nunito', sans-serif;
+    text-align: center;
+    color: red;
+}
+.firstinfo{
+    font-family: 'Nunito', sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.skill ul{
+    list-style: none;
+    padding-top: 15px;
+
+}
+.skill ul li{
+    padding: 10px;
+}
+.main2{
+    display: flex;
+    padding-top: 100px;
+    justify-content: space-around;
+    /* align-items: ; */
+    /* align-content: center; */
+}
+.education h4{
+    font-size: 20px;
+    padding: 10px 10px 10px 0px;
+}
+.fa-solid{
+    padding-right: 10px;
+    color: black;
+}
